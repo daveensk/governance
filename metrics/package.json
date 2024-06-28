@@ -1,5 +1,5 @@
 {
-  "name": "governance_metrics",
+  "name": "@triad/pyth-staking",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
