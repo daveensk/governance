@@ -16,7 +16,7 @@
     "@pythnetwork/solana-utils": "^0.4.1",
     "@pythnetwork/staking-wasm": "*",
     "@solana/spl-governance": "0.3.26",
-    "@solana/spl-token": "^0.1.8",
+    "@solana/spl-token": "^0.4.1",
     "@solana/web3.js": "^1.87.5",
     "encoding": "^0.1.13",
     "ethers": "^6.10.0",
